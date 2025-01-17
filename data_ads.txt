@@ -1,5 +1,5 @@
 {
-  "cfg_baner_ad"   : "sDgK6y9L0HLtPZZNaaJ3cq09Y8ZtCPN8rxksaf4SXto=",
+  "cfg_baner_ad"   : "123456",
   "admob_banner_key"      : "ca-app-pub-9600383135581620/8959636423"      ,
   "admob_inter_key": "ca-app-pub-9600383135581620/7780322671"
 }
