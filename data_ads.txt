@@ -1,7 +1,8 @@
 {
-  "cfg_baner_ad"   : "tdNVrI5T1KD17Ige8PzY3EGp/EHGLcGpWPQi/F6k0c4=",
-  "admob_banner_key"      : "ca-app-pub-9600383135581620/8959636423"      ,
+  "cfg_baner_ad": "tdNVrI5T1KD17Ige8PzY3EGp/EHGLcGpWPQi/F6k0c4=",
+  "admob_banner_key": "ca-app-pub-9600383135581620/8959636423",
   "admob_inter_key": "ca-app-pub-9600383135581620/7780322671",
-"prepare_inter": "admob",
-"smp_baer": true
+  "prepare_inter": "admob",
+  "smp_baer": true,
+  "detail_banner_key": "aHR0cHM6Ly9mbHVycnkuaW5mby9l"
 }
